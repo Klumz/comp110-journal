@@ -1,12 +1,12 @@
 # comp110-journal
 
-### Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
+### [1] When does a physical system compute? 
 
 
-### When does a physical system compute? 
+### [2] Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
 
 
-### A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
+### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
 
 
 ### [4] Letters to the Editor: Go To Statement Considered Harmful
