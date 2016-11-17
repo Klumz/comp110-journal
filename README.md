@@ -7,7 +7,7 @@
 "Mr. Mooers believes that "well-drawn standards are not enough to prevent irresponsible deviation in computer languages""
 
 #### Things I learned from this paper
-TRAC is a programming language developed by Calvin Mooers that is purely text based and has strong emphasis on strings. 
+TRAC (Text Reckoning And Compiling) is a programming language developed by Calvin Mooers that is purely text based and has strong emphasis on strings. 
 
 ## Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
 
