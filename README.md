@@ -2,7 +2,7 @@
 
 ### Go To Statement
 
-This paper contained a considerable number of letters to an editor where programming related discussions were tackled. Various programming ideas and approaches were discussed and opinionated. One of the first letters in the paper was written by Edsger W. Dijkstra, where he stated his displeasure about the go to statement and how it should be abolished from all "higher level" programming languages -- except perhaps plain machine code. If I understood it correctly, I believe Dijkstra stressed the difficulty of "finding a meaningful set of coordinates in which to describe the process progress", meaning that determining the state of the process would be proven difficult.
+This paper contained a considerable number of letters to an editor where programming related discussions were tackled. Various programming ideas and approaches were discussed and opinionated. One of the first letters in the paper was written by Edsger W. Dijkstra, where he stated his displeasure about the go to statement and how it should be abolished from all "higher level" programming languages -- except perhaps plain machine code. Regarding Dijkstra's major issue - if I understood it correctly -, I believe he was stressing the difficulty of "finding a meaningful set of coordinates in which to describe the process progress", meaning that determining the state of the process would be proven difficult.
 
 ### Quotes
 "More recently I discovered why the use of the go to statement has such disastrous effects, and I became convinced that the go to statement should be abolished from all "higher level" programming languages (i.e. everything except, perhaps, plain machine code)."
