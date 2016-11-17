@@ -6,6 +6,9 @@
 
 "Mr. Mooers believes that "well-drawn standards are not enough to prevent irresponsible deviation in computer languages""
 
+"Mooers' policy, which applies in academic institutions as well as commercial users, includes "authorized use of the algorithm and primitives of a specific TRAC language; authorization for experimentation with the language..." I think that this attempt to protect a language and its software by controlling the name is very ill-advised."
+
+
 #### Things I learned from this paper thus far:
 TRAC (Text Reckoning And Compiling) is a programming language developed by Calvin Mooers that is purely text based and has strong emphasis on strings. 
 
