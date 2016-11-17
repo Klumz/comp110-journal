@@ -1,6 +1,11 @@
 # comp110-journal
 
-### Go To Statement Considered Harmful - quotes
+### Go To Statement
+
+This paper contained a considerable number of letters to an editor where programming related discussions were tackled. Various programming ideas and approaches were discussed and opinionated. One of the first letters was written by Edsger W. Dijkstra, where he stated his displeasure about the go to statement and how it should be abolished from all "higher level" programming languages -- except perhaps plain machine code. If I understood it correctly, I believe Dijkstra stressed the difficulty of "finding a meaningful set of coordinates in which to describe the process progress", meaning that determining the state of the process would be proven difficult.
+
+### Quotes
+"More recently I discovered why the use of the go to statement has such disastrous effects, and I became convinced that the go to statement should be abolished from all "higher level" programming languages (i.e. everything except, perhaps, plain machine code)."
 
 "The go to statement as it stands is just too primitive; it is too much an invitation to make a mess of one's program. One can regard and appreciate the clauses considered as bridling its use. I do not claim that the clauses mentioned are exhaustive in the sense that/hey will satisfy all needs, but whatever clauses are suggested (e.g. abortion clauses) they should satisfy the requirement that a programmer independent coordinate system can be maintained to describe the process in a helpful and manageable way."
 
