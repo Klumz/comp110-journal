@@ -1,6 +1,15 @@
 # comp110-journal
 
-### Go To Statement
+### Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
+
+
+### When does a physical system compute? 
+
+
+### A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
+
+
+### [4] Letters to the Editor: Go To Statement Considered Harmful
 
 This paper contained a considerable number of letters to an editor where programming related discussions were tackled. Various programming ideas and approaches were discussed and opinionated. One of the first letters in the paper was written by Edsger W. Dijkstra, where he stated his displeasure about the go to statement and how it should be abolished from all "higher level" programming languages -- except, perhaps, plain machine code. Regarding Dijkstra's major issue with the go to statement - if I understood it correctly -, I believe he was stressing the difficulty of "finding a meaningful set of coordinates in which to describe the process progress", meaning that determining the state of the process would be proven difficult.
 
@@ -17,11 +26,3 @@ This paper contained a considerable number of letters to an editor where program
 
 #### Things I learned from this paper thus far (needs more):
 TRAC (Text Reckoning And Compiling) is a programming language developed by Calvin Mooers that is purely text based and has strong emphasis on strings. 
-
-### Experimental Investigations of the Utility of Detailed Flowcharts in Programming 
-
-
-### When does a physical system compute? 
-
-
-### A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
