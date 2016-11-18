@@ -9,7 +9,7 @@
 ### Quotes:
 
 "She feels the flowchart is "an essential tool in problem solving" and states, "The person who cannot flowchart cannot anticipate a problem, analyze the problem, plan the solution, or solve the problem.""
-- A bold statement, and I don't feel like this is necessarily true. While flowcharts do provide aid and visualisation, I don't believe they are as vital as mentioned. Especially when it comes to programming, one can't always expect and predict problems that arise based on flowcharts alone. 
+- A bold statement, and I don't feel like this is necessarily true. While flowcharts do provide clear paths and visualisation, I don't believe they are as vital as mentioned. Especially when it comes to programming, one can't always expect and predict problems that arise based on flowcharts alone. 
 
 ### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
 
