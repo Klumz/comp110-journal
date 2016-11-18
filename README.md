@@ -24,5 +24,5 @@ This paper contained a considerable number of letters to an editor where program
 
 "I believe that this doctrine of autonomous standardization and trademark identification is a long step forward in service to the user public, and thus is in the right direction. According to the almost uniformly favorable response we have received to date, many others seem to think the same way. I expect to see the doctrine have wide application." - Mr. Mooer's reply
 
-#### Things I learned from this paper thus far (needs more):
+#### Things I learned from this paper thus far (to be continued):
 TRAC (Text Reckoning And Compiling) is a programming language developed by Calvin Mooers that is purely text based and has strong emphasis on strings. 
