@@ -3,8 +3,8 @@
 ### [1] When does a physical system compute? 
 
 
-### [2] Experimental Investigations of the Utility of Detailed Flowcharts in Programming (continue at "Experiment IV (Modification)"):
-
+### [2] Experimental Investigations of the Utility of Detailed Flowcharts in Programming:
+In this paper, Ben Shneiderman, Richard Mayer, Don McKay and Peter Heller have set up a total of five deliberate experiments in order to determine the advantages and disadvantages of using flowcharts in improving programming composition, comprehension, debugging and modification, as well as finalising and discussing the results. The experiments were conducted with the use of "subjects", basically meaning various groups of university students. As a result of this, the paper ultimately concluded two things; detailed flowcharts are superfluous presentations of the information contained in programming language statements, as mentioned in the following quote: "We conjecture that detailed flowcharts are merely a redundant presentation of the information contained in the programming language statements. The flowcharts may even be at a disadvantage because they are not as complete (omitting declarations, statement labels, and input/output formats) and require many more pages than do the concise programming language statements." Lastly, it was also concluded that the experiments did not provide the utility and benefits of detailed flowcharts in program composition, comprehension, debugging or modification, resulting in further work needing to be done in order to determine other areas where flowcharts may be useful. 
 
 ### Quotes:
 
@@ -19,8 +19,6 @@
 This paper contained a considerable number of letters to an editor where programming related discussions were tackled. Various programming ideas and approaches were discussed and opinionated. One of the first letters in the paper was written by Edsger W. Dijkstra, where he stated his displeasure about the go to statement and how it should be abolished from all "higher level" programming languages -- except, perhaps, plain machine code. Regarding Dijkstra's major issue with the go to statement - if I understood it correctly -, I believe he was stressing the difficulty of "finding a meaningful set of coordinates in which to describe the process progress", meaning that determining the state of the process would be proven difficult.
 
 ### Quotes
-"More recently I discovered why the use of the go to statement has such disastrous effects, and I became convinced that the go to statement should be abolished from all "higher level" programming languages (i.e. everything except, perhaps, plain machine code)."
-
 "The go to statement as it stands is just too primitive; it is too much an invitation to make a mess of one's program. One can regard and appreciate the clauses considered as bridling its use. I do not claim that the clauses mentioned are exhaustive in the sense that/hey will satisfy all needs, but whatever clauses are suggested (e.g. abortion clauses) they should satisfy the requirement that a programmer independent coordinate system can be maintained to describe the process in a helpful and manageable way."
 
 "Mr. Mooers believes that "well-drawn standards are not enough to prevent irresponsible deviation in computer languages""
