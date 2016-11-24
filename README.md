@@ -14,6 +14,10 @@ In this paper, Ben Shneiderman, Richard Mayer, Don McKay and Peter Heller have s
 ### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
 
 
+### Quotes
+"It applies to a complex family of shape models and is particularly convenient when the objects are subject to changes in position and orientation."
+- This appears to be a practical application for video games, among others. 
+
 ### [4] Letters to the Editor: Go To Statement Considered Harmful
 
 This paper contained a considerable number of letters to an editor where programming related discussions were tackled. Various programming ideas and approaches were discussed and opinionated. One of the first letters in the paper was written by Edsger W. Dijkstra, where he stated his displeasure on the go to statement and how it should be abolished from all "higher level" programming languages -- except, perhaps, plain machine code. Regarding Dijkstra's major issue with the go to statement - if I understood it correctly -, I believe he was stressing the difficulty of "finding a meaningful set of coordinates in which to describe the process progress", meaning that determining the state of the process would be proven difficult.
