@@ -1,6 +1,6 @@
 # comp110-journal
 
-### [1] When does a physical system compute? 
+### [1] When does a physical system compute? (incomplete) 
 This paper explains when a physical system computes and goes in depth on how abstract and physical entities go in conjunction by using the "representation relation" and/or generally physics. In terms of representation relation, the paper states: "...it is how physics works. This relation is how we can write down |ψ and think that we are talking about an electron or a hydrogen atom or a Bose–Einstein condensate. Every time we use something abstract to represent something physical, we use a representation relation". 
 
 ### [2] Experimental Investigations of the Utility of Detailed Flowcharts in Programming:
@@ -11,7 +11,7 @@ In this paper, Ben Shneiderman, Richard Mayer, Don McKay and Peter Heller have s
 "She feels the flowchart is "an essential tool in problem solving" and states, "The person who cannot flowchart cannot anticipate a problem, analyze the problem, plan the solution, or solve the problem.""
 - A bold statement, and I don't feel like this is necessarily true. While flowcharts do provide clear paths and visualisation, I don't believe they are as vital as mentioned. Especially when it comes to programming, one can't always expect and predict problems that arise based on flowcharts alone. 
 
-### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
+### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space (incomplete)
 
 
 ### Quotes
