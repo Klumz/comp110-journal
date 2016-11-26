@@ -2,10 +2,15 @@
 
 ### [1] When does a physical system compute? (incomplete) 
 This paper explains when a physical system computes and goes in depth on how abstract and physical entities go in conjunction by using the "representation relation" and generally physics/science. In terms of representation relation, the paper states: "...it is how physics works. This relation is how we can write down |ψ and think that we are talking about an electron or a hydrogen atom or a Bose–Einstein condensate. Every time we use something abstract to represent something physical, we use a representation relation". 
+Additionally, the paper describes the distinction between abstract processes and physical objects, as well as the different input and output effects they provide. 
 
 #### Quotes:
 "The key to the interaction between abstract and physical entities in physics is via the representation relation [21,27]. This is the method by which physical systems are given abstract descriptions: an atom is represented as a wave function, a billiard ball as a point in phase space, a black hole as ametric tensor and so on."
 
+"This is physical computing: the use of a physical system to predict the outcome of an abstract evolution."
+
+"This is how we can escape from falling into the trap of ‘everything is information’ or ‘the universe is a computer’: a system may potentially be a computer, but without an encode and a decode step it is just a physical system."
+- From what I understood, this states that a physical system only computes assuming it is encoding and decoding abstract data and programs, and only when it is executing this form of action. 
 
 ### [2] Experimental Investigations of the Utility of Detailed Flowcharts in Programming:
 In this paper, Ben Shneiderman, Richard Mayer, Don McKay and Peter Heller have set up a total of five deliberate experiments in order to determine the advantages and disadvantages of using flowcharts in improving programming composition, comprehension, debugging and modification, as well as finalising and discussing the results. The experiments were conducted with the use of "subjects", basically meaning various groups of university students. As a result of this, the paper ultimately concluded two things; detailed flowcharts are superfluous presentations of the information contained in programming language statements, as mentioned in the following quote: "We conjecture that detailed flowcharts are merely a redundant presentation of the information contained in the programming language statements. The flowcharts may even be at a disadvantage because they are not as complete (omitting declarations, statement labels, and input/output formats) and require many more pages than do the concise programming language statements." Lastly, it was also concluded that the experiments did not provide the utility and benefits of detailed flowcharts in program composition, comprehension, debugging or modification, resulting in further work needing to be done in order to analyse and understand other areas where flowcharts may be useful. 
@@ -18,6 +23,10 @@ In this paper, Ben Shneiderman, Richard Mayer, Don McKay and Peter Heller have s
 
 ### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space (incomplete)
 
+This paper demonstrates and presents to us an algorithm for calculating the Euclidean distance (the length of a shortest line segment
+joining the two objects) between two objects in any Rn dimensions. When used, it is stated that the algorithm is particularly designed to be a faster and more efficient way of determining objects in three-dimensional space. 
+
+Notes: As expected, this paper involved a considerable amount of maths in it, resulting in it being harder to understand. 
 
 #### Quotes
 "It applies to a complex family of shape models and is particularly convenient when the objects are subject to changes in position and orientation."
