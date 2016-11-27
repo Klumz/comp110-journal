@@ -1,6 +1,6 @@
 # comp110-journal
 
-### [1] When does a physical system compute? (incomplete) 
+### [1] When does a physical system compute?
 This paper explains when a physical system computes and goes in depth on how abstract and physical entities go in conjunction by using the "representation relation" and generally physics/science. In terms of representation relation, the paper states: "...it is how physics works. This relation is how we can write down |ψ and think that we are talking about an electron or a hydrogen atom or a Bose–Einstein condensate. Every time we use something abstract to represent something physical, we use a representation relation". 
 Additionally, the paper describes the distinction between abstract processes and physical objects, as well as the different input and output effects they provide. 
 
@@ -21,12 +21,12 @@ In this paper, Ben Shneiderman, Richard Mayer, Don McKay and Peter Heller have s
 - A bold statement, and I don't feel like this is necessarily true. While flowcharts do provide clear paths and visualisation, I don't believe they are as vital as mentioned. Especially when it comes to programming, one can't always expect and predict problems that arise based on flowcharts alone. 
 
 
-### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space (incomplete)
+### [3] A Fast Procedure for Computing the Distance Between Complex Objects in Three-Dimensional Space
 
 This paper demonstrates and presents to us an algorithm for calculating the Euclidean distance (the length of a shortest line segment
 joining the two objects) between two objects in any Rn dimensions. When used, it is stated that the algorithm is particularly designed to be a faster and more efficient way of determining objects in three-dimensional space. 
 
-Notes: As expected, this paper involved a considerable amount of maths in it, resulting in it being harder to understand. 
+Note: As expected, this paper involved a considerable amount of maths in it, resulting in it being harder to understand. 
 
 #### Quotes
 "It applies to a complex family of shape models and is particularly convenient when the objects are subject to changes in position and orientation."
