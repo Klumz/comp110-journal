@@ -41,6 +41,9 @@ This paper contained a considerable number of letters to an editor where program
 
 "I believe that this doctrine of autonomous standardization and trademark identification is a long step forward in service to the user public, and thus is in the right direction. According to the almost uniformly favorable response we have received to date, many others seem to think the same way. I expect to see the doctrine have wide application." - Mr. Mooer's reply
 
+### Correlation between the four papers:
+From what I gathered, the first paper establishes the whole idea of determining how and when a physical system computes with the aid of numerous theories including physics and science. This paper in a way "initialises" the discussion between the linkage of it and the three other papers that were provided. The second paper demonstrates and explores the usage of flowcharts, analyses their potential and discusses the visualisation they provide when determining the computational flow of a program's process which can indicate if a program is running/computing. The third paper, on the other hand, is uncertain. I will guess that it takes into consideration and emphasises the importance of optimising the distance between complex objects in 3D space, or generally programs, which goes hand in hand with the fourth paper. The fourth paper highlights the concern the go to statement brings in the long run. It states how the statement has the potential to enforce unoptimisation in one's program overtime, which contradicts the third paper.
+
 
 ### References:
 [1] Horsman, Clare and Stepney, Susan and Wagner, Rob C. and Kendon, Viv (2014) "When does a physical system compute?", Proceedings of the Royal Society A: mathematical, physical and engineering sciences., 470 (2169). p. 20140182.
